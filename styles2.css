@@ -1,0 +1,47 @@
+.my-container{
+  /* border: 2px solid blue; */
+  height: 70px;
+}
+.my-container2{
+  /* border: 2px solid red; */
+  height: 700px;
+}
+.my-brand{
+  background-color: #CB7777;
+  font-family: 'Satisfy', cursive;
+}
+.my-brand h1{
+  color: white;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.my-header{
+  background-color: #E6DCDC;
+  padding-top: 15px;
+}
+.my-sidebar{
+  background-color: #CB7777;
+}
+.menu{
+  list-style: none;
+  padding-top: 40px;
+  padding-left: 15px;
+}
+.menu-link{
+  color: white;
+}
+.menu a:hover{
+  color: white;
+}
+.my-content{
+   background-color: #E6DCDC;
+}
+.searching input{
+  border: 3px solid #D25E5E;
+  border-radius: 10px;
+  height: 40px;
+}
+.form-user{
+  width: 50%;
+  padding: 20px;
+}

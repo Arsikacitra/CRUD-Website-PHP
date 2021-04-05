@@ -1,0 +1,92 @@
+.promo{
+  background-color: #FFC9C9;
+  width: 100%;
+  height: 91px;
+  text-align: center;
+  padding-top: 28px;
+  padding-bottom: 34px;
+ 
+}
+.searching input{
+  border: 3px solid #D25E5E;
+  border-radius: 10px;
+  height: 40px;
+}
+.modal-header{
+  background-color: #FFC9C9;
+}
+
+.my-brand{
+  font-family: 'Satisfy', cursive;
+  /* border: 2px solid black; */
+  text-align: end;
+  height: 150px;
+}
+.my-brand h1{
+  padding-right: 257px;
+  padding-top: 56px;
+}
+.my-navigation{
+  list-style: none;
+  /* border: 2px solid red; */
+  padding-top: 60px;
+  
+}
+li a{
+  color: black;
+}
+span{
+  margin-right: 55px;
+}
+i{
+  color: black;
+}
+.menu .nav{
+  padding-bottom: 46px;
+}
+.carousel{
+  width: 90%;
+  margin:auto;
+  height: 725px;
+}
+.carousel-item img{
+  height: 725px;
+}
+.video{
+  margin-top: 97px;
+  margin-bottom: 78px;
+}
+.product{
+  margin-left: 120px;
+  margin-right: 120px;
+  margin-bottom: 100px;
+}
+
+.card-text{
+  text-align: center;
+}
+.card-text a{
+  color: black;
+}
+
+.footer{
+   background-color: #FFC9C9;
+  width: 100%;
+  height: 250px;
+  text-align: center;
+  padding-top: 66px;
+  padding-bottom: 34px;
+}
+.link{
+  font-weight: bold;
+}
+.link a{
+  color: #5E5E5E;
+  font-weight: lighter;
+}
+@media (min-width: 576px) { 
+  .my-navigation{
+     display: none;
+  }
+ 
+ }
